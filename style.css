@@ -1,0 +1,157 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+section {
+  padding: 40px;
+}
+
+#about {
+  background-color: #f2f2f2;
+}
+
+#projects {
+  background-color: #e6e6e6;
+}
+
+.project {
+  margin-bottom: 20px;
+}
+
+#contact {
+  background-color: #f2f2f2;
+}
+
+form input,
+form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+form button {
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #075e54;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+}
+
+main {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.chat {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  max-width: 400px;
+  width: 100%;
+}
+
+.chat-header {
+  background-color: #075e54;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+.chat-header h3 {
+  margin: 0;
+}
+
+.chat-messages {
+  padding: 10px;
+}
+
+.message {
+  margin-bottom: 10px;
+}
+
+.message p {
+  margin: 0;
+  padding: 5px 10px;
+  background-color: #f2f2f2;
+  border-radius: 5px;
+}
+
+.chat-input {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.chat-input input[type="text"] {
+  flex-grow: 1;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.chat-input button {
+  margin-left: 10px;
+  padding: 5px 10px;
+  background-color: #075e54;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+footer {
+  background-color: #075e54;
+  color: #000000;
+  text-align: center;
+  padding: 20px;
+}
